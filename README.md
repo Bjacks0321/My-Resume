@@ -84,14 +84,8 @@ Certified IT Support & Cybersecurity Specialist with a healthcare background and
 
 ---
 
-## 📂 Projects in This Repo
-- PROJECT 1: Conduct a Security Audit  
-- PROJECT 2: Use the NIST Framework  
-- PROJECT 3: Perform User Management Tasks  
-- PROJECT 4: Apply Filters with Wireshark  
-- PROJECT 5: Analyze a Vulnerable VM  
-- PROJECT 6: Incident Handler’s Journal  
-- PROJECT 7: Automate IP Management
+## 📂 Projects
+- Take a look at my public repositories
 
 ---
 
